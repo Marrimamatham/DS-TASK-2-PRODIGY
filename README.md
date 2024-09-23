@@ -1,6 +1,6 @@
 # DS-TAPRODIGY INFOTECH DATASCIENCE INTERNSHIP TASK 2
 
-Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution DATASET:
+Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualizatiOn to represent the distribution DATASET:
 
 The dataset used for this task is https://www.kaggle.com/c/titanic/data
 
